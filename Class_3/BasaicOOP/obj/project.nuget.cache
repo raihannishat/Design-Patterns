@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Z4tDvVjvLtTgG42cjf4pwyajvQkdm7lC5Gl6SbjJ30sHNX8StJENk2DP6Hi3llyyr06hOwaTjCevH3Yh9roguA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Raihan Nishat\\source\\repos\\BasaicOOP\\BasaicOOP\\BasaicOOP.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Raihan Nishat\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
