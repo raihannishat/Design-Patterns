@@ -1,0 +1,13 @@
+C:\Users\Raihan Nishat\source\repos\swe_code\Code_1\Code_1\bin\Debug\netcoreapp3.1\Code_1.exe
+C:\Users\Raihan Nishat\source\repos\swe_code\Code_1\Code_1\bin\Debug\netcoreapp3.1\Code_1.deps.json
+C:\Users\Raihan Nishat\source\repos\swe_code\Code_1\Code_1\bin\Debug\netcoreapp3.1\Code_1.runtimeconfig.json
+C:\Users\Raihan Nishat\source\repos\swe_code\Code_1\Code_1\bin\Debug\netcoreapp3.1\Code_1.runtimeconfig.dev.json
+C:\Users\Raihan Nishat\source\repos\swe_code\Code_1\Code_1\bin\Debug\netcoreapp3.1\Code_1.dll
+C:\Users\Raihan Nishat\source\repos\swe_code\Code_1\Code_1\bin\Debug\netcoreapp3.1\Code_1.pdb
+C:\Users\Raihan Nishat\source\repos\swe_code\Code_1\Code_1\obj\Debug\netcoreapp3.1\Code_1.csprojAssemblyReference.cache
+C:\Users\Raihan Nishat\source\repos\swe_code\Code_1\Code_1\obj\Debug\netcoreapp3.1\Code_1.AssemblyInfoInputs.cache
+C:\Users\Raihan Nishat\source\repos\swe_code\Code_1\Code_1\obj\Debug\netcoreapp3.1\Code_1.AssemblyInfo.cs
+C:\Users\Raihan Nishat\source\repos\swe_code\Code_1\Code_1\obj\Debug\netcoreapp3.1\Code_1.csproj.CoreCompileInputs.cache
+C:\Users\Raihan Nishat\source\repos\swe_code\Code_1\Code_1\obj\Debug\netcoreapp3.1\Code_1.dll
+C:\Users\Raihan Nishat\source\repos\swe_code\Code_1\Code_1\obj\Debug\netcoreapp3.1\Code_1.pdb
+C:\Users\Raihan Nishat\source\repos\swe_code\Code_1\Code_1\obj\Debug\netcoreapp3.1\Code_1.genruntimeconfig.cache
