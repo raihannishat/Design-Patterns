@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Raihan Nishat\\source\\repos\\swe_code\\Code_2\\Code_2\\Code_2.csproj",
+      "projectUniqueName": "E:\\Code\\GitHub\\Design-Patterns\\FactoryDesignPattern\\Code_2\\Code_2\\Code_2.csproj",
       "projectName": "Code_2",
-      "projectPath": "C:\\Users\\Raihan Nishat\\source\\repos\\swe_code\\Code_2\\Code_2\\Code_2.csproj",
+      "projectPath": "E:\\Code\\GitHub\\Design-Patterns\\FactoryDesignPattern\\Code_2\\Code_2\\Code_2.csproj",
       "packagesPath": "C:\\Users\\Raihan Nishat\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Raihan Nishat\\source\\repos\\swe_code\\Code_2\\Code_2\\obj\\",
+      "outputPath": "E:\\Code\\GitHub\\Design-Patterns\\FactoryDesignPattern\\Code_2\\Code_2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

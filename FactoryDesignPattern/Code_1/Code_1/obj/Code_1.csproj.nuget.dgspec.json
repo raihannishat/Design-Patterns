@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Raihan Nishat\\source\\repos\\swe_code\\Code_1\\Code_1\\Code_1.csproj": {}
+    "E:\\Code\\GitHub\\Design-Patterns\\FactoryDesignPattern\\Code_1\\Code_1\\Code_1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Raihan Nishat\\source\\repos\\swe_code\\Code_1\\Code_1\\Code_1.csproj": {
+    "E:\\Code\\GitHub\\Design-Patterns\\FactoryDesignPattern\\Code_1\\Code_1\\Code_1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Raihan Nishat\\source\\repos\\swe_code\\Code_1\\Code_1\\Code_1.csproj",
+        "projectUniqueName": "E:\\Code\\GitHub\\Design-Patterns\\FactoryDesignPattern\\Code_1\\Code_1\\Code_1.csproj",
         "projectName": "Code_1",
-        "projectPath": "C:\\Users\\Raihan Nishat\\source\\repos\\swe_code\\Code_1\\Code_1\\Code_1.csproj",
+        "projectPath": "E:\\Code\\GitHub\\Design-Patterns\\FactoryDesignPattern\\Code_1\\Code_1\\Code_1.csproj",
         "packagesPath": "C:\\Users\\Raihan Nishat\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Raihan Nishat\\source\\repos\\swe_code\\Code_1\\Code_1\\obj\\",
+        "outputPath": "E:\\Code\\GitHub\\Design-Patterns\\FactoryDesignPattern\\Code_1\\Code_1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
