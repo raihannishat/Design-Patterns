@@ -10,8 +10,8 @@ namespace Code_3
         {
             List<string> menu = new List<string>
             {
-                "1) In Progress TimeSheet",
-                "2) Completed TimeSheet"
+                "1) JuniorEmployee",
+                "2) SeniorEmployee"
             };
 
             var work = new Work();
