@@ -1,0 +1,9 @@
+E:\Code\GitHub\Design-Patterns\Project\TodoList.Client\TodoList.Library\bin\Debug\netcoreapp3.1\TodoList.Library.deps.json
+E:\Code\GitHub\Design-Patterns\Project\TodoList.Client\TodoList.Library\bin\Debug\netcoreapp3.1\TodoList.Library.dll
+E:\Code\GitHub\Design-Patterns\Project\TodoList.Client\TodoList.Library\bin\Debug\netcoreapp3.1\TodoList.Library.pdb
+E:\Code\GitHub\Design-Patterns\Project\TodoList.Client\TodoList.Library\obj\Debug\netcoreapp3.1\TodoList.Library.csprojAssemblyReference.cache
+E:\Code\GitHub\Design-Patterns\Project\TodoList.Client\TodoList.Library\obj\Debug\netcoreapp3.1\TodoList.Library.AssemblyInfoInputs.cache
+E:\Code\GitHub\Design-Patterns\Project\TodoList.Client\TodoList.Library\obj\Debug\netcoreapp3.1\TodoList.Library.AssemblyInfo.cs
+E:\Code\GitHub\Design-Patterns\Project\TodoList.Client\TodoList.Library\obj\Debug\netcoreapp3.1\TodoList.Library.dll
+E:\Code\GitHub\Design-Patterns\Project\TodoList.Client\TodoList.Library\obj\Debug\netcoreapp3.1\TodoList.Library.pdb
+E:\Code\GitHub\Design-Patterns\Project\TodoList.Client\TodoList.Library\obj\Debug\netcoreapp3.1\TodoList.Library.csproj.CoreCompileInputs.cache
