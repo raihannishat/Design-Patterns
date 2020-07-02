@@ -29,7 +29,7 @@ namespace TodoList.Library
         {
             if (connection != null)
             {
-                connection.Dispose();
+                connection.Close();
             }
         }
     }

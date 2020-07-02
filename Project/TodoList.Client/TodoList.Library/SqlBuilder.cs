@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Linq;
 using System.Text;
 
 namespace TodoList.Library
@@ -8,47 +9,50 @@ namespace TodoList.Library
     {
         public string GetInsertSql(object item)
         {
-            var sql = new StringBuilder();
-            
+            var sql = new QueryBuilder();
+
             var type = item.GetType();
             var tableName = type.Name;
             var columns = new Dictionary<string, object>();
 
-            foreach (var prop in type.GetProperties())
+            foreach (var property in type.GetProperties())
             {
-                columns.Add(prop.Name, prop.GetValue(item));
+                if (property.GetValue(item) != null)
+                {
+                    columns.Add(property.Name, property.GetValue(item));
+                }
             }
 
-            sql.Append($"INSERT INTO {tableName}");
-            sql.Append($"(");
+            sql.Add($"INSERT INTO {tableName}");
+            sql.Add($"(");
 
             foreach (var column in columns)
             {
-                if (column.Key.Equals("time"))
+                if (column.Key == columns.Last().Key)
                 {
-                    sql.Append($"{column.Key}");
+                    sql.Add($"{column.Key}");
                     break;
                 }
 
-                sql.Append($"{column.Key}, ");
+                sql.Add($"{column.Key}, ");
             }
 
-            sql.Append(") VALUES(");
+            sql.Add(") VALUES(");
 
             foreach (var value in columns)
             {
-                if (value.Key.Equals("time"))
+                if (value.Value == columns.Last().Value)
                 {
-                    sql.Append($"'{value.Value}'");
+                    sql.Add($"'{value.Value}'");
                     break;
                 }
 
-                sql.Append($"'{value.Value}', ");
+                sql.Add($"'{value.Value}', ");
             }
 
-            sql.Append(");");
+            sql.Add(");");
 
-            return sql.ToString();
+            return sql.GetQuery();
         }
     }
 }

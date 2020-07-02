@@ -7,13 +7,13 @@ namespace TodoList.Client
     {
         static void Main(string[] args)
         {
-            //DateTime date2 = new DateTime(2020, 7, 6, 10, 00, 00);
-            //Console.WriteLine(date2.Subtract(DateTime.Now).TotalHours);
-            
-            var task3 = new Task() { id = "poi", name = "zxc", note = "qwe", time = DateTime.Now };
+            var sql = new SqlBuilder();
 
-            var todo = new TaskRepository();
-            todo.Create(task3);
+            var person = new Person() { id = "123", address = "Barisal" };
+
+            var query = sql.GetInsertSql(person);
+
+            Console.WriteLine(query);
         }
     }
 }
