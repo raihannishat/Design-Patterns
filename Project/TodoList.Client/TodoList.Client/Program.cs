@@ -9,7 +9,7 @@ namespace TodoList.Client
         {
             var sql = new SqlBuilder();
 
-            Product p1 = new Product() { id = "753", quantity = 9 };
+            Product p1 = new Product() { id = "753", name = "fgfdg" };
 
             string query = sql.GetUpdateSql(p1);
 
