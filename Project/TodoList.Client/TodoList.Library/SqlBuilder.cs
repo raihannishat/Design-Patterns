@@ -29,6 +29,7 @@ namespace TodoList.Library
 
             foreach (var column in columns)
             {
+                
                 if (column.Key == columns.Last().Key)
                 {
                     sqlQuery.Add($"{column.Key}");
@@ -36,6 +37,7 @@ namespace TodoList.Library
                 }
 
                 sqlQuery.Add($"{column.Key}, ");
+                
             }
 
             sqlQuery.Add(") VALUES(");

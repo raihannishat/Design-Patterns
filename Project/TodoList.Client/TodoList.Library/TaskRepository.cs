@@ -9,7 +9,12 @@ namespace TodoList.Library
 {
     public class TaskRepository : Repository<Task>
     {
-        private SqlBuilder sqlBuilder = new SqlBuilder(); 
+        private SqlBuilder sqlBuilder = null;
+
+        public TaskRepository()
+        {
+            sqlBuilder = new SqlBuilder();
+        }
 
         public override void Create(Task Entity)
         {

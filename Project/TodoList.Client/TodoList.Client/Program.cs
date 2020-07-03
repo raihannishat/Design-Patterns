@@ -9,11 +9,9 @@ namespace TodoList.Client
         {
             var sql = new SqlBuilder();
 
-            var product = new Product() { id = "753", quantity = 50 };
+            Product p1 = new Product() { id = "753", quantity = 9 };
 
-            var task = new Task() { id = "951", note = "Sleep" };
-
-            var query = sql.GetUpdateSql(product);
+            string query = sql.GetUpdateSql(p1);
 
             Console.WriteLine(query);
         }

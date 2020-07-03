@@ -6,3 +6,4 @@ E:\Code\GitHub\Design-Patterns\Project\TodoList.Client\TodoList.Library\obj\Debu
 E:\Code\GitHub\Design-Patterns\Project\TodoList.Client\TodoList.Library\obj\Debug\netcoreapp3.1\TodoList.Library.dll
 E:\Code\GitHub\Design-Patterns\Project\TodoList.Client\TodoList.Library\obj\Debug\netcoreapp3.1\TodoList.Library.pdb
 E:\Code\GitHub\Design-Patterns\Project\TodoList.Client\TodoList.Library\obj\Debug\netcoreapp3.1\TodoList.Library.csproj.CoreCompileInputs.cache
+E:\Code\GitHub\Design-Patterns\Project\TodoList.Client\TodoList.Library\obj\Debug\netcoreapp3.1\TodoList.Library.csprojAssemblyReference.cache
