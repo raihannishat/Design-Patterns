@@ -37,7 +37,6 @@ namespace TodoList.Library
                 }
 
                 sqlQuery.Add($"{column.Key}, ");
-                
             }
 
             sqlQuery.Add(") VALUES(");
