@@ -72,7 +72,7 @@ namespace TodoList.Library
 
             foreach (var value in columns)
             {
-                sqlQuery.Add($"{value.Value};");
+                sqlQuery.Add($"'{value.Value}';");
                 break;
             }
 
@@ -114,13 +114,16 @@ namespace TodoList.Library
                 sqlQuery.Add($"{column.Key} = {column.Value}, ");               
             }
 
-            sqlQuery.Add($"WHERE {columns.Keys.First()} = {columns.Values.First()}");
+            sqlQuery.Add($"WHERE {columns.Keys.First()} = '{columns.Values.First()}';");
 
             return sqlQuery.GetQuery();
         }
 
         private Dictionary<string, object> GetColumns(object item)
         {
+            sqlQuery.Remove();
+            columns.Clear();
+
             foreach (var property in type.GetProperties())
             {
                 if (property.GetValue(item) != null)

@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Linq;
 using System.Text;
 
 namespace TodoList.Library
@@ -11,6 +12,11 @@ namespace TodoList.Library
         public void Add(string value)
         {
             _query = _query + value;
+        }
+
+        public void Remove()
+        {
+            _query = null;
         }
 
         public string GetQuery()
