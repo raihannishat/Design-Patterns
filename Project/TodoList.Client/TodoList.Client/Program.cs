@@ -7,7 +7,7 @@ namespace TodoList.Client
     {
         static void Main(string[] args)
         {
-            Console.WriteLine();
+            Console.WriteLine(Guid.NewGuid());
         }
     }
 }
