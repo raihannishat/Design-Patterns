@@ -24,7 +24,6 @@ namespace TodoList.Library
             type = item.GetType();
             tableName = type.Name;
             columns = GetColumns(item);
-
             sqlQuery.Add($"INSERT INTO {tableName}(");
 
             foreach (var column in columns)
@@ -61,7 +60,6 @@ namespace TodoList.Library
             type = item.GetType();
             tableName = type.Name;
             columns = GetColumns(item);
-
             sqlQuery.Add($"DELETE FROM {tableName} WHERE ");
 
             foreach (var column in columns)
@@ -84,7 +82,6 @@ namespace TodoList.Library
             type = item.GetType();
             tableName = type.Name;
             columns = GetColumns(item);
-
             sqlQuery.Add($"SELECT * FROM [{tableName}];");
 
             return sqlQuery.GetQuery();
@@ -95,7 +92,6 @@ namespace TodoList.Library
             type = item.GetType();
             tableName = type.Name;
             columns = GetColumns(item);
-
             sqlQuery.Add($"UPDATE {tableName} SET ");
 
             foreach (var column in columns)
