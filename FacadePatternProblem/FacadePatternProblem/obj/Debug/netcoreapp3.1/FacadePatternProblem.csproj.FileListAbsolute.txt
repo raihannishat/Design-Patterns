@@ -1,0 +1,13 @@
+C:\Users\Raihan Nishat\source\repos\FacadePatternProblem\FacadePatternProblem\obj\Debug\netcoreapp3.1\FacadePatternProblem.csprojAssemblyReference.cache
+C:\Users\Raihan Nishat\source\repos\FacadePatternProblem\FacadePatternProblem\obj\Debug\netcoreapp3.1\FacadePatternProblem.AssemblyInfoInputs.cache
+C:\Users\Raihan Nishat\source\repos\FacadePatternProblem\FacadePatternProblem\obj\Debug\netcoreapp3.1\FacadePatternProblem.AssemblyInfo.cs
+C:\Users\Raihan Nishat\source\repos\FacadePatternProblem\FacadePatternProblem\obj\Debug\netcoreapp3.1\FacadePatternProblem.csproj.CoreCompileInputs.cache
+C:\Users\Raihan Nishat\source\repos\FacadePatternProblem\FacadePatternProblem\bin\Debug\netcoreapp3.1\FacadePatternProblem.exe
+C:\Users\Raihan Nishat\source\repos\FacadePatternProblem\FacadePatternProblem\bin\Debug\netcoreapp3.1\FacadePatternProblem.deps.json
+C:\Users\Raihan Nishat\source\repos\FacadePatternProblem\FacadePatternProblem\bin\Debug\netcoreapp3.1\FacadePatternProblem.runtimeconfig.json
+C:\Users\Raihan Nishat\source\repos\FacadePatternProblem\FacadePatternProblem\bin\Debug\netcoreapp3.1\FacadePatternProblem.runtimeconfig.dev.json
+C:\Users\Raihan Nishat\source\repos\FacadePatternProblem\FacadePatternProblem\bin\Debug\netcoreapp3.1\FacadePatternProblem.dll
+C:\Users\Raihan Nishat\source\repos\FacadePatternProblem\FacadePatternProblem\bin\Debug\netcoreapp3.1\FacadePatternProblem.pdb
+C:\Users\Raihan Nishat\source\repos\FacadePatternProblem\FacadePatternProblem\obj\Debug\netcoreapp3.1\FacadePatternProblem.dll
+C:\Users\Raihan Nishat\source\repos\FacadePatternProblem\FacadePatternProblem\obj\Debug\netcoreapp3.1\FacadePatternProblem.pdb
+C:\Users\Raihan Nishat\source\repos\FacadePatternProblem\FacadePatternProblem\obj\Debug\netcoreapp3.1\FacadePatternProblem.genruntimeconfig.cache
