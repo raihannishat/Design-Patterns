@@ -21,7 +21,7 @@ namespace TodoList.Library
         }
 
         public abstract void Create(T Entity);
-        public abstract void Read();
+        public abstract void Read(T Entity);
         public abstract void Update(T Entity);
         public abstract void Delete(T Entity);
 

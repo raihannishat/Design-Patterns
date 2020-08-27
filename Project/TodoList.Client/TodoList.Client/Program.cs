@@ -7,7 +7,8 @@ namespace TodoList.Client
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(Guid.NewGuid());
+            IToDoList toDoList = ToDoApp.GetToDoApp();
+            toDoList.start();
         }
     }
 }
